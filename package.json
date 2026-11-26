@@ -1,0 +1,1 @@
+{"description":"The funniest honest appliance error message: a printer confesses its ink has never been low.","license":"MIT","main":"main.ts","name":"appliance-error-ink","private":true,"scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
